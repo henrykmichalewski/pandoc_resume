@@ -4,7 +4,8 @@ Henryk Michalewski
 ----
 
 > Google DeepMind\
-> henrykm@google.com\
+> work: henrykm@google.com\
+> personal: henrykmichalewski@gmail.com\
 > Oxford, UK\
 > [Phone: +44 750 825 6803](tel:+44 750 825 6803)
 
@@ -13,7 +14,7 @@ Henryk Michalewski
 Work Engagements
 ----------------
 
-2021-Present
+2021-Presenthen
 :   **Staff Research Scientist** at Google Brain (Google DeepMind from April 2023)
 
 2021-2022
@@ -45,6 +46,8 @@ I made individual contributions to code and reasoning trainings and evaluations 
 Selected Papers 2018-23
 -----------------------
 
+- [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818), [RT-2 in New York Times](https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html), [Google AI Blog](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/), 2023.
+- S. Tworkowski, K. Staniszewski, M. Pacek, Y. Wu, H. Michalewski, P. Miłoś [Long Llama](https://arxiv.org/abs/2307.03170), [GitHub repo - access to Long Llama using the HuggingFace API](https://github.com/CStanKonrad/long_llama), 2023.
 - A. Lewkowycz, A. Andreassen, D. Dohan, E. Dyer, H. Michalewski, V. Ramasesh, A. Slone, C. Anil, I. Schlag, T. Gutman-Solo, Y. Wu, B. Neyshabur, G. Gur-Ari, V. Misra: [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858) | [blog post](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html) | [sample explorer](https://minerva-demo.github.io/#category=Algebra&amp;index=1) - NeurIPS 2022.
 - K.-H. Lee, O. Nachum, S. Yang, L. Lee, D. Freeman, W. Xu, S. Guadarrama, I. Fischer, E. Jang, H. Michalewski, I. Mordatch: [Multi-Game Decision Transformers](https://sites.google.com/corp/view/multi-game-transformers/home?authuser=0) - NeurIPS 2022.
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311) - preprint 2022. Contribution to Section 6.4 on Code Generation with Large Language Models.
