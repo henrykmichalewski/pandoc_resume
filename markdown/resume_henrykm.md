@@ -41,11 +41,11 @@ Work Engagements
 Recent Work Roles
 -----------------
 
-I made individual contributions to code and reasoning trainings and evaluations of [PaLM](https://arxiv.org/abs/2204.02311) and [Minerva](https://arxiv.org/abs/2206.14858) models, and I am currently working on the next generation of code and reasoning models. I also work on the incorporation of new modalities for code, reasoning, and robotics that would allow self-improvement, error spotting and correction, and prediction of the value of a sequence of actions.
+I made individual contributions to code and reasoning trainings and evaluations of [PaLM](https://arxiv.org/abs/2204.02311) and [Minerva](https://arxiv.org/abs/2206.14858) models, and I am currently working on the next generation of code and reasoning Gemini models. I also work on the incorporation of new modalities for code, reasoning, and robotics that would allow self-improvement, error spotting and correction, and prediction of the value of a sequence of actions.
 
 Selected Papers 2018-23
 -----------------------
-
+- The Gemini team, [Gemini blog](https://deepmind.google/technologies/gemini/#introduction), [Gemini whitepaper](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf), 2023.
 - C. Fernando, D. Banarse, H. Michalewski, S. Osindero, T. Rocktäschel: [Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](https://arxiv.org/abs/2309.16797), 2023.
 - [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818), [RT-2 in New York Times](https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html), [Google AI Blog](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/), 2023.
 - S. Tworkowski, K. Staniszewski, M. Pacek, Y. Wu, H. Michalewski, P. Miłoś: [Long Llama](https://arxiv.org/abs/2307.03170), [GitHub repo - access to Long Llama using the HuggingFace API](https://github.com/CStanKonrad/long_llama), 2023.
